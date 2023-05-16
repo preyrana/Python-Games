@@ -1,2 +1,2 @@
-# Quiz-Game
-This file consists of five questions as a quiz game. In the end you get your score!.
+# Python-Games
+This file consists of games built using Python. 
